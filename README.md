@@ -1,2 +1,2 @@
 # summarized-algorithm-of-path-planning
-A*  D* JPS Artificail 
+ python code about A*、D*、JPS、Artificail field algorithm 
